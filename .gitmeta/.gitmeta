@@ -1,12 +1,12 @@
-commit QmfYEL7yGXpea3rpHoJbZa2mWsH3EvX9PKrRENmVBKbQ6B
+commit QmPZbdXA6N7NBT4hhgKHkZDEAc3PEh3juz9HvEFMdSrLf5
 Branch: main
 Signed-off by: danimesq.eth (0xDDfC2e10702d8A781727A34D83B3bb3CA94a3E91)
-Signature: 89a29ac557bbe5c7dd6fe61c724233388057fda4bad8334af8563cb3fdc7714917333eda81cbab2ed9f91173a571a992b58f3e6b4c1d9552fac9e220dea80acc01
+Signature: 5c27d7d521f56abe3348a4f4a8ff83c572b42ef339e288eaea0f751368ed275e49f6dd9a805b25e85eb1c29e2ba18d60f4c0282bc5be7a2c100b18df7646f10501
 
 ------------------------------
 
-Commit CID if including git's SHA1: QmemT5b7dLk9zrZ6jrp57iTqx9ig17pmMPJJpn9xxAUZmc
-Commit CID if containing only file hashes: QmXSm6QKAxUv2Qhz4qjAvkcHyEKWYt9jYZqQ6AXpoKVin3
+Commit CID if including git's SHA1: QmSeCHiqVe88L5e1XCAJXGF3SkLRKeiKy2KFPZ6ecvBJbp
+Commit CID if containing only file hashes: QmWzSQyiCJ5B4q87Q3eocGPCWG3mbTdpdQ9B1rWnjtHySS
 
 ------------------------------
 
@@ -17,27 +17,27 @@ Remote URL: https://github.com/MeskitaMus/MeskitaMus.github.io.git
 
 ------------------------------
 
-chown -h 1000:1000 '.gitignore'
-chmod 0664 '.gitignore'
-/usr/bin/touch -hcmd "2024-08-21 07:55:03.6737826000 -0300" '.gitignore'
-/usr/bin/touch -hcad "2024-08-21 07:55:10.4998686000 -0300" '.gitignore'
-chown -h 1000:1000 'favicon.svg'
-chmod 0755 'favicon.svg'
-/usr/bin/touch -hcmd "2024-08-14 14:00:56.5239827000 -0300" 'favicon.svg'
-/usr/bin/touch -hcad "2024-08-21 07:52:34.3299030000 -0300" 'favicon.svg'
-chown -h 1000:1000 'logotype.svg'
-chmod 0755 'logotype.svg'
-/usr/bin/touch -hcmd "2024-08-14 14:03:44.4815072000 -0300" 'logotype.svg'
-/usr/bin/touch -hcad "2024-08-21 07:52:35.3359157000 -0300" 'logotype.svg'
-chown -h 1000:1000 'new/.folderstamp1'
-chmod 0664 'new/.folderstamp1'
-/usr/bin/touch -hcmd "2024-08-21 01:03:04.5954593000 -0300" 'new/.folderstamp1'
-/usr/bin/touch -hcad "2024-08-21 07:55:29.1651037000 -0300" 'new/.folderstamp1'
-chown -h 1000:1000 'new/logotype-plain_black.svg'
-chmod 0755 'new/logotype-plain_black.svg'
-/usr/bin/touch -hcmd "2024-08-14 14:03:54.5070598000 -0300" 'new/logotype-plain_black.svg'
-/usr/bin/touch -hcad "2024-08-21 07:50:46.6715504000 -0300" 'new/logotype-plain_black.svg'
-chown -h 1000:1000 'new/logotype-plain_white.svg'
-chmod 0755 'new/logotype-plain_white.svg'
-/usr/bin/touch -hcmd "2024-08-14 14:04:03.1079381000 -0300" 'new/logotype-plain_white.svg'
-/usr/bin/touch -hcad "2024-08-21 07:50:46.6705503000 -0300" 'new/logotype-plain_white.svg'
+chown -h 1000:1000 'favicon.ico'
+chmod 0664 'favicon.ico'
+/usr/bin/touch -hcmd "2024-08-21 07:58:29.8923824000 -0300" 'favicon.ico'
+/usr/bin/touch -hcad "2024-08-21 07:58:33.3304258000 -0300" 'favicon.ico'
+chown -h 1000:1000 'favicon.ico.log.html5'
+chmod 0664 'favicon.ico.log.html5'
+/usr/bin/touch -hcmd "2024-08-21 07:58:59.2757532000 -0300" 'favicon.ico.log.html5'
+/usr/bin/touch -hcad "2024-08-21 08:00:36.9159857000 -0300" 'favicon.ico.log.html5'
+chown -h 1000:1000 'favicon.png'
+chmod 0664 'favicon.png'
+/usr/bin/touch -hcmd "2024-08-21 07:56:44.6900556000 -0300" 'favicon.png'
+/usr/bin/touch -hcad "2024-08-21 07:56:47.3310889000 -0300" 'favicon.png'
+chown -h 1000:1000 'favicon.png.log.html5'
+chmod 0664 'favicon.png.log.html5'
+/usr/bin/touch -hcmd "2024-08-21 07:57:06.7213333000 -0300" 'favicon.png.log.html5'
+/usr/bin/touch -hcad "2024-08-21 08:00:36.9179857000 -0300" 'favicon.png.log.html5'
+chown -h 1000:1000 'logotype.png'
+chmod 0664 'logotype.png'
+/usr/bin/touch -hcmd "2024-08-21 07:59:34.3071953000 -0300" 'logotype.png'
+/usr/bin/touch -hcad "2024-08-21 07:59:37.3282334000 -0300" 'logotype.png'
+chown -h 1000:1000 'logotype.png.log.html5'
+chmod 0664 'logotype.png.log.html5'
+/usr/bin/touch -hcmd "2024-08-21 08:00:16.3037254000 -0300" 'logotype.png.log.html5'
+/usr/bin/touch -hcad "2024-08-21 08:00:36.9629863000 -0300" 'logotype.png.log.html5'
