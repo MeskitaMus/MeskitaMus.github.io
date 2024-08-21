@@ -4,16 +4,16 @@ background:#e3e2e2!important
 }
 
 .header, header {
-    background: #00a2e8!important;
+    background: #e60870!important;
 }
 
 .logo,logo {
     width: 140px !important;
     height: 42px !important;
-    background: url(../logotype.png) no-repeat no-repeat 1px 4px !important;
+    background: url(../press/press-kit/img/logotype-plain_white.svg) no-repeat no-repeat 1px 4px !important;
     /*background-size: auto !important;*/
     /*background-size: 120px !important;*/
-    background-size: 63px !important;
+    background-size: 130px !important;
     padding: 0 0px 9px 120px !important;
     line-height: 41px !important;
     top: 5px !important;
@@ -25,12 +25,12 @@ background:#e3e2e2!important
 header nav ul li p{color:#fff!important}
 
 ::selection {
-    background: #11511f!important;
+    background: #e60870!important;
     color: #fff!important;
 }
 
 .h1, h1 {
-    color: #11511f!important;
+    color: #e60870!important;
 }
 
 .navmenu {
@@ -51,7 +51,7 @@ button.color:hover{background:#fff;color:#00964a}
     background-color:#00964a!important;
 }
 
-.footer,footer{background:#11511f;color:#ffffff}
+.footer,footer{background:#e60870;color:#ffffff}
 
 @media(max-width:8in){
 .logo, logo {
@@ -69,7 +69,7 @@ button.color:hover{background:#fff;color:#00964a}
     margin-right: 10px;
     display: inline-block;
 }.badge {
-    background: #11511f;
+    background: #e60870;
     color: #fff;
     padding: 4px 4px 4px 4px;
     border-radius: 2px;

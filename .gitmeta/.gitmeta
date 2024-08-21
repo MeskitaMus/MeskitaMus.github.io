@@ -1,12 +1,12 @@
-commit QmWztX8muU3hTqN4CdCpCSRn9aKSKqAuFEbjxqePmuW4VM
+commit QmWQT8CE64YSGBAXJEcFbdQfe3fnbwV16ApKMDpuMn8rKF
 Branch: main
 Signed-off by: danimesq.eth (0xDDfC2e10702d8A781727A34D83B3bb3CA94a3E91)
-Signature: 24d6d50236113a1d07d4433adb5e0848d314ffe201ea876cf52c512a9b17e1c05ea67278ba3f9600858c67e0cd75434aaee6efa2f1609b1cc8a4050bf5f7992f00
+Signature: 485d4ae4bcdeb19faa8a8e85fbbe39fdebe32a913dd8e609bfee8d6dbe8e2c1a426d49ebafd3bc1f0f95782777e99648d161cc71d64ec79d31cb638be2f7738800
 
 ------------------------------
 
-Commit CID if including git's SHA1: QmP22bpccDx85B6fNeD7AKW5nbYYiERxJPaPCYtHo5CKgH
-Commit CID if containing only file hashes: QmXGwgFqZNVi4MFnMgL3hJ51t5VUskaa8DhphmSGAhU9Es
+Commit CID if including git's SHA1: QmUenstxKbpaWF7PCQJxwV9xryPD1UKqNQpMTtmBkwW9Vs
+Commit CID if containing only file hashes: QmWBhzyW5Yghn3xR9Hq1k9MfBkNBrmEQ3soKcvomRF7eEe
 
 ------------------------------
 
@@ -17,23 +17,11 @@ Remote URL: https://github.com/MeskitaMus/MeskitaMus.github.io.git
 
 ------------------------------
 
-chown -h 1000:1000 'Presentation.pptx_FILES/docProps/app.xml'
-chmod 0664 'Presentation.pptx_FILES/docProps/app.xml'
-/usr/bin/touch -hcmd "1980-01-01 00:00:00.0000000000 -0300" 'Presentation.pptx_FILES/docProps/app.xml'
-/usr/bin/touch -hcad "2024-08-21 10:09:03.6177130000 -0300" 'Presentation.pptx_FILES/docProps/app.xml'
-chown -h 1000:1000 'Presentation.pptx_FILES/docProps/core.xml'
-chmod 0664 'Presentation.pptx_FILES/docProps/core.xml'
-/usr/bin/touch -hcmd "1980-01-01 00:00:00.0000000000 -0300" 'Presentation.pptx_FILES/docProps/core.xml'
-/usr/bin/touch -hcad "2024-08-21 10:09:03.8706750000 -0300" 'Presentation.pptx_FILES/docProps/core.xml'
-chown -h 1000:1000 'Presentation.pptx_FILES/docProps/thumbnail.jpeg'
-chmod 0664 'Presentation.pptx_FILES/docProps/thumbnail.jpeg'
-/usr/bin/touch -hcmd "1980-01-01 00:00:00.0000000000 -0300" 'Presentation.pptx_FILES/docProps/thumbnail.jpeg'
-/usr/bin/touch -hcad "2024-08-21 10:09:03.8706750000 -0300" 'Presentation.pptx_FILES/docProps/thumbnail.jpeg'
-chown -h 1000:1000 'Presentation.pptx_FILES/ppt/slides/slide1.xml'
-chmod 0664 'Presentation.pptx_FILES/ppt/slides/slide1.xml'
-/usr/bin/touch -hcmd "1980-01-01 00:00:00.0000000000 -0300" 'Presentation.pptx_FILES/ppt/slides/slide1.xml'
-/usr/bin/touch -hcad "2024-08-21 10:09:03.8736745000 -0300" 'Presentation.pptx_FILES/ppt/slides/slide1.xml'
-chown -h 1000:1000 'Presentation.pptx_FILES/ppt/viewProps.xml'
-chmod 0664 'Presentation.pptx_FILES/ppt/viewProps.xml'
-/usr/bin/touch -hcmd "1980-01-01 00:00:00.0000000000 -0300" 'Presentation.pptx_FILES/ppt/viewProps.xml'
-/usr/bin/touch -hcad "2024-08-21 10:09:03.8976709000 -0300" 'Presentation.pptx_FILES/ppt/viewProps.xml'
+chown -h 1000:1000 'css/page-custom.css'
+chmod 0755 'css/page-custom.css'
+/usr/bin/touch -hcmd "2024-08-21 16:23:22.8838500000 -0300" 'css/page-custom.css'
+/usr/bin/touch -hcad "2024-08-21 16:23:24.9640577000 -0300" 'css/page-custom.css'
+chown -h 1000:1000 'press/press-kit/index.html'
+chmod 0755 'press/press-kit/index.html'
+/usr/bin/touch -hcmd "2024-08-21 16:26:15.4517781000 -0300" 'press/press-kit/index.html'
+/usr/bin/touch -hcad "2024-08-21 16:26:29.0296504000 -0300" 'press/press-kit/index.html'
